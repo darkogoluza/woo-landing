@@ -2,10 +2,10 @@ import styled from "styled-components";
 
 export const Container = styled.section`
   width: 100%;
-  height: 100vh;
+  height: 1000px;
   position: relative;
 
-  overflow-x: hidden;
+  overflow: hidden;
 `;
 export const Gradient = styled.div`
   width: 100%;
