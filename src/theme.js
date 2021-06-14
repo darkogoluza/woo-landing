@@ -5,6 +5,7 @@ const theme = {
   purple: "#7854f7",
   gray: "#94a2b3",
   blue: "#299ef3",
+  green: "#70C217",
 };
 
 export default theme;
