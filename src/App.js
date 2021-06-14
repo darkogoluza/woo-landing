@@ -4,6 +4,8 @@ import Hero from "./components/Hero";
 import Section from "./components/Section";
 import Testimonials from "./components/Testimonials";
 import People from "./components/People";
+import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Section />
       <Testimonials />
       <People />
+      <CTA />
+      <Footer />
     </main>
   );
 }
